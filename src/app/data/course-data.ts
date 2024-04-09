@@ -1,11 +1,10 @@
 
 export const COURSES = [
-
     {
         id: 1,
         title : "CSci 160: Computer Science - I",
-        iconUrl: 'https://www.ndsu.edu/themes/ndsu/logo.svg',
-        longDescription: "A introductory programming class",
+        url: 'https://www.ndsu.edu/themes/ndsu/logo.svg',
+        description: "A introductory programming class",
         level: '100 level',
         credits: 4
     },

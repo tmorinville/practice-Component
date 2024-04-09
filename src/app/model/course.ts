@@ -1,8 +1,8 @@
 export interface Course {
     id:number;
     title:string;
-    iconUrl: string;
-    longDescription: string;
+    url: string;
+    description: string;
     level:string;
     credits:number;
 }
