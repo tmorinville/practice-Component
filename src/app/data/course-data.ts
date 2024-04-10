@@ -12,7 +12,7 @@ export const COURSES:Course[] = [
     {
         id: 2,
         title: "CSci 161: Computer Science - II",
-        iconUrl: 'https://www.ndsu.edu/themes/ndsu/logo.svg',
+        url: 'https://www.ndsu.edu/themes/ndsu/logo.svg',
         description: "Introduction to data structures, algorithms and program complexity",
         level: '100 level',
         credits: 4
